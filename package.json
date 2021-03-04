@@ -1,0 +1,22 @@
+{
+  "name": "battle-royale-bot",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/goet/battle-royale-bot.git"
+  },
+  "author": "goet",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/goet/battle-royale-bot/issues"
+  },
+  "homepage": "https://github.com/goet/battle-royale-bot#readme",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  }
+}
